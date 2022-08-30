@@ -1,4 +1,4 @@
-This project contains files for my Undergraduate Capston Project where I developed a Smart Streetlight monitoring System. 
+This project contains files for my Undergraduate Capstone Project where I developed a Smart Streetlight monitoring System. 
 
 I built a complete prototype of the system t that automated the control of streetlights with an algorithm that responded to distance and weather. 
 

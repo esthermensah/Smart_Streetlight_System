@@ -2,7 +2,7 @@ This project contains files for my Undergraduate Capstone Project where I develo
 
 I built a complete prototype of the system t that automated the control of streetlights with an algorithm that responded to distance and weather. 
 
-The project can potentially increase energy conservation by 35% and allows real-time fault detection and monitoring on an interactive dashboard.
+The project can potentially increase energy conservation by 25% and allows real-time fault detection and monitoring on an interactive dashboard.
 
 Embedded technology and object-oriented programming using C was used for programming the microcontroller and determining system control. Other technologies used were LoRa communication, SolidWorks, Edge computing.
 

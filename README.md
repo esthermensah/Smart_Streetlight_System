@@ -8,4 +8,4 @@ Embedded technology and object-oriented programming using C was used for program
 
 AdminLTE template was edited for creation of the dashboard.
 
-An explanatory video of the entire system can be accessed here : 
+An explanatory video of the entire system can be accessed here : https://github.com/esthermensah/Smart_Streetlight_System/blob/main/Smart%20Streetlight%20video%20.m4v 
